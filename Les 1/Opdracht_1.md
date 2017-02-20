@@ -34,7 +34,6 @@ Particle
     Color (color given to the particle by the emitter, i.e. red or blue)
     Lifetime (lifetime given to the particle by the emitter)
    
-   Methods:
-   Pulse() (Each particle pulses at different speeds)
-   Destroy() (destroy the particle at the end of its given lifetime)
-
+   	Methods:
+    Pulse() (Each particle pulses at different speeds)
+    Destroy() (destroy the particle at the end of its given lifetime)
