@@ -4,6 +4,7 @@
 Particle* ParticleEmitter::emit() {
 	Particle* newParticle;
 	newParticle = new Particle();
+	newParticle->init(Xorigin, Yorigin);
 	newParticle->setColors(inner, outer);
 	return newParticle;
 }
