@@ -7,6 +7,9 @@
 		<ClCompile Include="src\main.cpp">
 			<Filter>src</Filter>
 		</ClCompile>
+		<ClCompile Include="src\CurvingParticle.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
 		<ClCompile Include="src\main.cpp">
 			<Filter>src</Filter>
 		</ClCompile>
@@ -27,6 +30,9 @@
 	</ItemGroup>
 	<ItemGroup>
 		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\CurvingParticle.h">
 			<Filter>src</Filter>
 		</ClInclude>
 		<ClInclude Include="src\ofApp.h">
